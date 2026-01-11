@@ -14,6 +14,8 @@ tags:
 lang: en
 ---
 
+**AI GENERATION: This weekly review is generated automatically and edited**
+
 For several years now, I have argued that cybercrime should not be viewed as a collection of isolated tools (a botnet here, a ransomware strain there, a phishing campaign somewhere else), but as an **ecosystem** of actors, services, and infrastructures. The news cycle of the past week — from **Sunday 4 January to Saturday 10 January 2026** — provides yet another illustration of this.
 
 Across botnets, ransomware operations, initial access brokers and sector-specific pressure on telecoms, we see the same pattern: **modular services, shared infrastructures, and long-lived criminal value chains**.

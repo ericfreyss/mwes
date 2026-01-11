@@ -103,8 +103,4 @@ For judicial actors and researchers alike, this transformation requires sustaine
 5. **Build anticipatory capabilities.**  
    Proactivity is no longer a luxury but a condition for effectiveness. Understanding criminal ecosystems means understanding where they can be weakened — and acting before they reconfigure. It also means detecting them as early as possible, when they are building their infrastructures and coordination mechanisms.
 
-Ten years after completing my thesis, botnets thus appear not as relics of the past, but as an analytical model that sheds light on a wide array of contemporary criminal phenomena. They are no longer merely compromised machines: they are structures, actors, relationships.
-
-Ecosystems.
-
-And it is at that scale that we must think and act.
+Ten years after completing my thesis, botnets thus appear not as relics of the past, but as an analytical model that sheds light on a wide array of contemporary criminal phenomena. **They are no longer merely compromised machines: they are structures, actors, relationships. Ecosystems. And it is at that scale that we must think and act.**

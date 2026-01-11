@@ -14,7 +14,7 @@ tags:
 lang: en
 ---
 
-**AI GENERATION: This weekly review is generated automatically and edited**
+**AI GENERATION: This weekly review was generated automatically and edited**
 
 For several years now, I have argued that cybercrime should not be viewed as a collection of isolated tools (a botnet here, a ransomware strain there, a phishing campaign somewhere else), but as an **ecosystem** of actors, services, and infrastructures. The news cycle of the past week — from **Sunday 4 January to Saturday 10 January 2026** — provides yet another illustration of this.
 
@@ -187,3 +187,4 @@ For defenders, policymakers and researchers, this implies:
 
 It is at this scale — the scale of **cybercrime ecosystems** — that our understanding and our counter-measures need to operate.
 
+**AI GENERATION: This weekly review was generated automatically and edited**
